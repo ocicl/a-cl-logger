@@ -1,0 +1,9 @@
+* a-cl-logger
+
+A common lisp logging library providing context sensitive logging of more than just strings to more than just local files / output streams
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/a-cl-logger.git |
+| commit  | cff9fe3                                                |
+| systems | a-cl-logger                                            |
+|---------+--------------------------------------------------------|
